@@ -1,6 +1,7 @@
 html{
-	background: url("assets/images/Atlanta.jpeg");
+	background: url("images/Atlanta.jpg");
 	font-family: 'Righteous', cursive;
+    background-size: cover;
 }
 
 * {
@@ -10,7 +11,7 @@ html{
 }
 
 h1{
-	font-size: 400px;
+	font-size: 100px;
 	color: white;
 	text-align: center;
 	margin: auto,0;
@@ -29,6 +30,3 @@ h1{
     color:white;
 }
 
-#row{
-   font-size: 20px; 
-}
