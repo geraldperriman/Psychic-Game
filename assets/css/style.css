@@ -1,0 +1,31 @@
+html{
+	background: url("assets/images/Atlanta.jpeg");
+	font-family: 'Righteous', cursive;
+}
+
+* {
+  box-sizing: border-box;
+  text-align: center;
+  color:white;
+}
+
+h1{
+	font-size: 400px;
+	color: white;
+	text-align: center;
+	margin: auto,0;
+    color:white;
+}
+
+
+
+#container{
+	width:75%;
+	border: 25px solid white;
+    padding: 25px;
+    margin:25px 100px 100px 200px;
+    display: block;
+    text-align: center;
+    color:white;
+}
+
